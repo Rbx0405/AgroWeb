@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
+    background-color: wheat;
 }
 
 .login-container {
@@ -20,6 +20,10 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     width: 350px;
     text-align: center;
+}
+h1{
+    text-align: top;
+    color: #ffffff;
 }
 
 h2 {
